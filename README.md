@@ -1,10 +1,10 @@
-# Funkin-Project-Vietnam
+# Funkin Project: Vietnam
 
-Chào mừng bạn đến với **Funkin-Project-Vietnam**, dự án cộng đồng chuyên Việt hóa các tựa game để mang trải nghiệm chơi game gần gũi hơn đến cộng đồng người chơi Việt Nam!
+Chào mừng bạn đến với **Funkin Project: Vietnam**, dự án cộng đồng chuyên Việt hóa các tựa game để mang trải nghiệm chơi game gần gũi hơn đến cộng đồng người chơi Việt Nam!
 
 ## Về chúng tôi
 
-Funkin-Project-Vietnam là một nhóm những người đam mê game, bao gồm các dịch giả, lập trình viên, thiết kế đồ họa và kiểm thử viên, cùng nhau làm việc để Việt hóa các tựa game yêu thích. Chúng tôi tin rằng ngôn ngữ không nên là rào cản để tận hưởng những tựa game tuyệt vời, và sứ mệnh của chúng tôi là mang đến trải nghiệm chơi game bằng tiếng Việt mượt mà, tự nhiên và chất lượng nhất.
+Funkin Project: Vietnam là một nhóm những người đam mê game, bao gồm các dịch giả, lập trình viên, thiết kế đồ họa và kiểm thử viên, cùng nhau làm việc để Việt hóa các tựa game yêu thích. Chúng tôi tin rằng ngôn ngữ không nên là rào cản để tận hưởng những tựa game tuyệt vời, và sứ mệnh của chúng tôi là mang đến trải nghiệm chơi game bằng tiếng Việt mượt mà, tự nhiên và chất lượng nhất.
 
 ### Mục tiêu
 - Việt hóa các tựa game một cách chính xác, giữ được tinh thần và phong cách của bản gốc.
