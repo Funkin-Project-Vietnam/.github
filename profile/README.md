@@ -23,13 +23,13 @@ Chúng tôi hiện đang tập trung vào việc Việt hóa các tựa game thu
 
 ## Tham gia cùng chúng tôi
 Chúng tôi luôn chào đón các thành viên mới, bất kể bạn là dịch giả, lập trình viên, nghệ sĩ hay chỉ đơn giản là một người yêu game! Nếu bạn muốn đóng góp:
-1. Tham gia nhóm của chúng tôi qua [Discord](#) (liên kết sẽ sớm được cập nhật).
-2. Gửi email cho chúng tôi tại [email@example.com](mailto:email@example.com).
+1. Tham gia nhóm của chúng tôi qua [Discord](hoaanhmine) (liên kết sẽ sớm được cập nhật).
+2. Gửi email cho chúng tôi tại [hoaanhminevn@gmail.com](mailto:hoaanhminevn@gmail.com).
 3. Xem các vấn đề (issues) đang mở trên GitHub và đóng góp ý tưởng hoặc mã nguồn.
 
 ## Liên hệ
 - **GitHub**: [Funkin-Project-Vietnam](https://github.com/Funkin-Project-Vietnam)
-- **Email**: [email@example.com](mailto:email@example.com)
+- **Email**: [hoaanhminevn@gmail.com](mailto:hoaanhminevn@gmail.com)
 - **Discord**: (Sẽ cập nhật sớm)
 
 Cảm ơn bạn đã ủng hộ Funkin-Project-Vietnam! Hãy cùng nhau mang những tựa game tuyệt vời đến gần hơn với cộng đồng Việt Nam! 🎮
