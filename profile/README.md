@@ -8,4 +8,4 @@ Chào mấy ní, đây là Team Github sẽ và có thể dịch thuật các b�
 Đây là các link hiện đang có:
 - **GitHub**: [Funkin-Project-Vietnam](https://github.com/Funkin-Project-Vietnam)
 - **Email**: [hoaanhminevn@gmail.com](mailto:hoaanhminevn@gmail.com)
-- **Discord**: Link sẽ có sớm, giữ liên lạc nha!
+- **Discord**: [https://discord.gg/qqRCkrvuNq](https://discord.gg/qqRCkrvuNq)
