@@ -2,7 +2,7 @@
 Chào mấy ní, đây là Team Github sẽ và có thể dịch thuật các bản mods, bản gốc Cho Friday Night Funkin', và CÓ THỂ vài trò khác nữa
 
 > [!NOTE]
-> Team này chủ yếu là dịch thuật, việt hóa các bản mods và bản gốc thôi né :))))
+> Team này chủ yếu là dịch thuật, việt hóa các bản mods và bản gốc thôi nè :))))
 
 ## Hãy liên lạc với tụi mình nếu muốn ^.^
 Đây là các link hiện đang có:
